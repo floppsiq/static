@@ -1,0 +1,50 @@
+[
+	{
+		"productName":"MANGO PEOPLE T-SHIRT",
+		"productPrice":52,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-1.jpg",
+		"productId":"prod_0"
+	},
+	{
+		"productName":"KIWI PEOPLE T-SHIRT",
+		"productPrice":46,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-2.jpg",
+		"productId":"prod_1"
+	},
+	{
+		"productName":"AVOCADO PEOPLE T-SHIRT",
+		"productPrice":87,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-3.jpg",
+		"productId":"prod_2"
+	},
+	{
+		"productName":"ORANGE PEOPLE T-SHIRT",
+		"productPrice":63,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-4.jpg",
+		"productId":"prod_3"
+	},
+	{
+		"productName":"APPLE PEOPLE T-SHIRT",
+		"productPrice":27,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-5.jpg",
+		"productId":"prod_4"
+	},
+	{
+		"productName":"BANANA PEOPLE T-SHIRT",
+		"productPrice":98,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-6.jpg",
+		"productId":"prod_5"
+	},
+	{
+		"productName":"PINEAPPLE PEOPLE T-SHIRT",
+		"productPrice":87,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-7.jpg",
+		"productId":"prod_6"
+	},
+	{
+		"productName":"PEAR PEOPLE T-SHIRT",
+		"productPrice":32,
+		"productImg":"https://raw.githubusercontent.com/floppsiq/static/master/js_chop/img/product-index-8.jpg",
+		"productId":"prod_7"
+	}
+]
